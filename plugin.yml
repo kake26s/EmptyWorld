@@ -1,0 +1,6 @@
+name: EmptyWorld
+main: kake26s\emptyworld\Core
+auther: kake26s
+version: 1.0.0
+api: 3.0.0
+load: STARTUP
